@@ -1,0 +1,22 @@
+.main__button {
+    display: block;
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    padding: 0.5rem 1rem;
+    font-family: inherit;
+    font-weight: 800;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .main__button:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    box-shadow: 0 0 15px greenyellow;
+  }
+  
+  .main__button:active {
+    transform: scale(0.9);
+  }

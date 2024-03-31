@@ -1,0 +1,11 @@
+.main__title {
+  background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Rubik Scribble", system-ui;
+  font-size: 3rem;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  text-align: center;
+}
